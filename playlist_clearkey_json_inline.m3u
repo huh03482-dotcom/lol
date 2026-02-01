@@ -6,13 +6,13 @@
 https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="antvhd" tvg-group-logo="" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/AnNinhTv.png",ANTV HD (On Plus)
-#https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD (VTV Prime)
 https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/QuocPhongVn.png",QPVN HD (On Plus)
-#https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
+https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/ThietYeu/BTV9.png",BTV9 HD | An Viên TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -26,7 +26,7 @@ https://livevlisctcdnw.seenow.vn/mean/ANVIEN/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV1.png",VTV1 HD (On Plus)
-#https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTV/VTV2.png",VTV2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -165,7 +165,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnMovies.png",On Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -189,7 +189,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnO2tv.png",On O2TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -240,7 +240,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnTrendingTv.png",ON TRENDING TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -258,7 +258,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnVieDramas.png",ON Vie Dramas HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -294,7 +294,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 
 # --- Nhóm SCTV ---
 
@@ -356,7 +356,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
@@ -371,7 +371,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MNE+pCAxuf+CceXcN9kOEA","kid":"xBDdxqdSRGOf0FYful7xmw"}],"type":"temporary"}
-#https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd
+https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
